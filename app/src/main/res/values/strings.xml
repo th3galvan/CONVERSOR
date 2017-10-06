@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CONVERSOR</string>
+    <string name="a_millas">A MILLAS</string>
+    <string name="a_kilometros">A KILÓMETROS</string>
+    <string name="kilometros">KILÓMETROS</string>
+    <string name="millas">MILLAS</string>
+</resources>

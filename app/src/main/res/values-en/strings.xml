@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">THE BEST CONVERSOR EVER</string>
+    <string name="a_kilometros">TO KILOMETERS</string>
+    <string name="a_millas">TO MILES</string>
+    <string name="kilometros">KILOMETERS</string>
+    <string name="millas">MILES</string>
+</resources>
